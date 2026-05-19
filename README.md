@@ -87,6 +87,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
+
 ▶**How to Run**
 
 Run the complete pipeline:
@@ -157,5 +158,5 @@ Docker deployment
 
 Akshat Agrawal
 
-GitHub: https://github.com/your-username
-LinkedIn: https://www.linkedin.com/in/your-profile
+GitHub: https://github.com/akshaay729-droid
+LinkedIn: https://www.linkedin.com/in/akshat-agrawal-11s2004/
