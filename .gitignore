@@ -2,3 +2,19 @@ venv/
 __pycache__/
 *.pyc
 reports/
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated data files
+data/processed_reviews.csv
+data/final_reviews.csv
+
+# Generated reports
+reports/
+
+# Optional: Jupyter notebooks
+.ipynb_checkpoints/
