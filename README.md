@@ -160,3 +160,13 @@ Akshat Agrawal
 
 GitHub: https://github.com/akshaay729-droid
 LinkedIn: https://www.linkedin.com/in/akshat-agrawal-11s2004/
+
+**AI-Powered Sentiment Analysis Web App**
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live-red)
+![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-green)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
+**Live Demo:** https://ai-powered-sentiment-analysis.streamlit.app  
+**GitHub:** https://github.com/akshaay729-droid/ai-powered-automation-workflow
