@@ -170,3 +170,17 @@ LinkedIn: https://www.linkedin.com/in/akshat-agrawal-11s2004/
 
 **Live Demo:** https://ai-powered-sentiment-analysis.streamlit.app  
 **GitHub:** https://github.com/akshaay729-droid/ai-powered-automation-workflow
+
+## 📸 Application Screenshots
+
+### Home Page
+![Home Page](images/screenshot1.png)
+
+### Uploading CSV File
+![Upload CSV](images/screenshot2.png)
+
+### Sentiment Analysis Results
+![Results](images/screenshot3.png)
+
+### Sentiment Distribution Chart
+![Chart](images/screenshot4.png)
